@@ -10,7 +10,7 @@ attrs==25.4.0
 autograd==1.7.0
 babel==2.16.0
 backoff==2.2.1
-beautifulsoup4==4.13.5
+#beautifulsoup4==4.13.5
 bleach==6.2.0
 boltons==25.0.0
 Bottleneck==1.4.2
@@ -108,7 +108,7 @@ nbconvert==7.16.6
 nbformat==5.10.4
 nest-asyncio==1.6.0
 netCDF4==1.7.2
-networkx==3.5
+#networkx==3.5
 notebook==7.4.5
 notebook_shim==0.2.4
 numexpr==2.11.0
@@ -123,7 +123,7 @@ pandocfilters==1.5.1
 parso==0.8.4
 patsy==1.0.1
 pdfminer.six==20231228
-pdfplumber==0.11.5
+#pdfplumber==0.11.5
 pexpect==4.9.0
 pillow==11.1.0
 pip==25.2
