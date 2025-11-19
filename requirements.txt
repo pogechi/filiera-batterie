@@ -204,7 +204,8 @@ websocket-client==1.8.0
 wheel==0.45.1
 widgetsnbextension==4.0.14
 wsproto==1.2.0
-xarray==2025.10.1
+xarray==2025.6.1
+#xarray==2025.10.1
 xyzservices==2025.4.0
 zipp==3.21.0
 zstandard==0.24.0
