@@ -93,7 +93,7 @@ MarkupSafe==3.0.2
 matplotlib==3.10.6
 matplotlib-inline==0.1.7
 mdurl==0.1.2
-menuinst==2.4.1
+#menuinst==2.4.1
 meshio==5.3.5
 mistune==3.1.2
 mkl_fft==2.0.0
@@ -139,7 +139,7 @@ psutil==7.0.0
 ptyprocess==0.7.0
 pure_eval==0.2.3
 pyarrow==21.0.0
-pybamm==24.1
+#pybamm==24.1
 pybtex==0.25.1
 pycosat==0.6.6
 pycparser==2.23
