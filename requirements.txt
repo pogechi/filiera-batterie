@@ -142,7 +142,7 @@ pure_eval==0.2.3
 pyarrow==21.0.0
 #pybamm==24.1
 pybtex==0.25.1
-pycosat==0.6.6
+#pycosat==0.6.6
 pycparser==2.23
 Pygments==2.19.1
 pyinstaller==6.12.0
